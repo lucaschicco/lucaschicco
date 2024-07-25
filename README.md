@@ -1,11 +1,11 @@
 ### Hola! Soy Lucas, bienvenido a mi perfil 👋🏼
 
 ## Acerca de mí
--👨🏻‍🔬 Soy Ingeniero Industrial recibido de la Universidad Tecnológica Nacional en Diciembre de 2019 
+👨🏻‍🔬 Soy Ingeniero Industrial recibido de la Universidad Tecnológica Nacional en Diciembre de 2019 
 
--⛽ Actualmente trabajando como Pricing & Data Analyst en Pan American Energy en la actualización de precios de combustibles  y automatización de tareas mediante python 👨🏻‍💻
+⛽ Actualmente trabajando como Data Analyst en Pan American Energy en la actualización de precios de combustibles y automatización de tareas mediante python 👨🏻‍💻
 
--👥 Apasionado por la programación y la búsqueda de nuevas tecnologías, desarrollando proyectos para la comunidad en mi tiempo libre 
+👥 Apasionado por la programación y la búsqueda de nuevas tecnologías, desarrollando proyectos para la comunidad en mi tiempo libre 
 
 ## Herramientas
 [![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)](https://www.python.org/)
