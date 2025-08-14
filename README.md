@@ -3,7 +3,7 @@
 ## Acerca de mí
 👨🏻‍🔬 Soy Ingeniero Industrial recibido de la Universidad Tecnológica Nacional
 
-⛽ Actualmente trabajando como Pricing Data Analyst en Pan American Energy en la actualización de precios de combustibles y automatización de tareas mediante python 👨🏻‍💻
+⛽ Actualmente trabajando como Data Driven Analyst en Pan American Energy desarrollando automatizaciones y mejoras de procesos en distintos negocios de la compañía. 👨🏻‍💻
 
 👥 Apasionado por la programación y la búsqueda de nuevas tecnologías, desarrollando proyectos para la comunidad en mi tiempo libre 
 
